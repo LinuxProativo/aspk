@@ -14,14 +14,8 @@ jobs:
     steps:
     - uses: actions/checkout@v4
 
-    - name: configure
-      run: ./configure
+    - name: Install NASM
+      run: sudo apt-get update && sudo apt-get install -y nasm
 
-    - name: Install dependencies
+    - name: Build ASPK
       run: make
-
-    - name: Run check
-      run: make check
-
-    - name: Run distcheck
-      run: make distcheck
