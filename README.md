@@ -6,11 +6,11 @@
 <h3 align="center">Transform your shell scripts (sh/bash) into self-contained ELF executables with zero dependencies.</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Size-9_KiB-44cc11" alt="Size">
-  <img src="https://img.shields.io/badge/Arch-x86__64-00599c" alt="Architecture">
-  <img src="https://img.shields.io/badge/Language-Assembly-2b5b75" alt="Language">
-  <img src="https://img.shields.io/badge/Build-Makefile-444444?" alt="Build">
-  <img src="https://img.shields.io/badge/License-GPLv3-007ec6" alt="License">
+  <img src="https://img.shields.io/badge/Size-9_KiB-44cc11?style=flat-square" alt="Size">
+  <img src="https://img.shields.io/badge/Arch-x86__64-00599c?style=flat-square" alt="Architecture">
+  <img src="https://img.shields.io/badge/Language-Assembly-2b5b75?style=flat-square&logo=assemblyscript&logoColor=white" alt="Language">
+  <img src="https://img.shields.io/badge/Build-Makefile-444444?style=flat-square&logo=gnu&logoColor=white" alt="Build">
+  <a href="LICENSE" style="text-decoration:none;"><img src="https://img.shields.io/badge/License-GPLv3-007ec6?style=flat-square" alt="License"></a>
 </p>
 
 ## 🚀 What is ASPK?
