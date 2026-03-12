@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/github/actions/workflow/status/LinuxProativo/aspk/makefile.yml?label=Test&style=flat-square&logo=github"/>
   <img src="https://img.shields.io/badge/Arch-x86__64-00599c?style=flat-square&logo=chainlink"/>
   <img src="https://img.shields.io/badge/Binary_Size-9_KiB-44cc11?style=flat-square&logo=paperlessngx"/>
+    <img src="https://img.shields.io/github/languages/code-size/LinuxProativo/aspk?style=flat-square&logo=paperlessngx&label=Code%20Size"/>
+    <img src="https://img.shields.io/github/repo-size/LinuxProativo/aspk?style=flat-square&logo=paperlessngx&label=Repo%20Size"/>
   <img src="https://img.shields.io/badge/Language-Assembly-2b5b75?style=flat-square&logo=assemblyscript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Build-Makefile-444444?style=flat-square&logo=gnu&logoColor=white"/>
   <img src="https://img.shields.io/github/license/LinuxProativo/aspk?color=673ab7&label=License&style=flat-square&logo=opensourcehardware&logoColor=white"/>
