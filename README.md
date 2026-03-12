@@ -6,11 +6,13 @@
 <h3 align="center">Transform your shell scripts (sh/bash) into self-contained ELF executables with zero dependencies.</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Size-9_KiB-44cc11?style=flat-square" alt="Size">
-  <img src="https://img.shields.io/badge/Arch-x86__64-00599c?style=flat-square" alt="Architecture">
-  <img src="https://img.shields.io/badge/Language-Assembly-2b5b75?style=flat-square&logo=assemblyscript&logoColor=white" alt="Language">
-  <img src="https://img.shields.io/badge/Build-Makefile-444444?style=flat-square&logo=gnu&logoColor=white" alt="Build">
-  <a href="LICENSE" style="text-decoration:none;"><img src="https://img.shields.io/badge/License-GPLv3-007ec6?style=flat-square" alt="License"></a>
+  <img src="https://img.shields.io/badge/Platform-Linux-FCC624?&logo=linux&style=flat-square"/>
+  <img src="https://img.shields.io/github/actions/workflow/status/LinuxProativo/aspk/makefile.yml?label=Test&style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/Arch-x86__64-00599c?style=flat-square&logo=chainlink"/>
+  <img src="https://img.shields.io/badge/Binary_Size-9_KiB-44cc11?style=flat-square&logo=paperlessngx"/>
+  <img src="https://img.shields.io/badge/Language-Assembly-2b5b75?style=flat-square&logo=assemblyscript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Build-Makefile-444444?style=flat-square&logo=gnu&logoColor=white"/>
+  <img src="https://img.shields.io/github/license/LinuxProativo/aspk?color=673ab7&label=License&style=flat-square&logo=opensourcehardware&logoColor=white"/>
 </p>
 
 ## 🚀 What is ASPK?
@@ -152,13 +154,6 @@ Fruits: apple banana
 - Scripts are embedded unencrypted (anyone can extract them)
 - x86-64 Linux only
 
-## 📄 GNU General Public License
-
-This repository has scripts that were created to be free software.<br/>
-Therefore, they can be distributed and/or modified within the terms of the *GNU General Public License*.
-
-> ### [General Public License](LICENSE)
-
 ## 🐛 Troubleshooting
 
 - **"Usage: shellpack <script.sh>"**  
@@ -173,9 +168,17 @@ Therefore, they can be distributed and/or modified within the terms of the *GNU 
 - **Binary doesn't execute**  
   ➜ Verify `/tmp/` is writable and executable
 
-## 🙏 Acknowledgments
+## 📜 GNU General Public License
 
-Built entirely in assembly to explore minimalism, performance and ELF internals.
+This repository has scripts that were created to be free software.  
+Therefore, they can be distributed and/or modified within the terms of the ***GNU General Public License***.
+
+> ### See the [General Public License](LICENSE) file for details.
+
+## 📬 Contact & Support
+
+* 📧 **Email:** [m10ferrari1200@gmail.com](mailto:m10ferrari1200@gmail.com)
+* 📧 **Email:** [contatolinuxdicaspro@gmail.com](mailto:contatolinuxdicaspro@gmail.com)
 
 <p align="center">
   <i>Made with ❤️ and assembly.</i>
